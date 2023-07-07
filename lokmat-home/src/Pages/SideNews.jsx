@@ -12,10 +12,10 @@ const SideNews = ({ell,ii}) => {
                              <div>
                                 
                              </div>
-                            <div style={{display:"flex",justifyContent:"space-evenly",marginLeft:"10px",width:"100%"}}>
-                                <h2 style={{color:"red"}}>{ell?.category}  </h2>
-                                <h2 style={{marginLeft:"15px",color:"red"}}>:</h2>
-                                <h2>{ell?.title}</h2>
+                            <div style={{marginLeft:"15px",width:"100%",textAlign:"left"}}>
+                                <h2 style={{color:"red",display:"inline"}}>{ell?.category}  :</h2>
+
+                                <h2 style={{display:"inline",marginLeft:"1px"}}> {ell?.title}</h2>
                             </div >
                             </div>
                            {ii!==3 || ii!==5? <hr />:<h1></h1>}

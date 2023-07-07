@@ -12,3 +12,4 @@ dispatch({type:DATA_SUCCESS,payload:res.data})
         dispatch({type:DATA_FAILUER})
     })
 }
+

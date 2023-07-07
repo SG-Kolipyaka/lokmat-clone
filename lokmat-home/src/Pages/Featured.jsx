@@ -26,10 +26,10 @@ const Featured = () => {
                         if(i===0){
                             return <div className='home1'> 
                                 
-                                <div style={{display:"flex",justifyContent:"space-between",marginLeft:"10px",width:"100%"}}>
-                                <h1 style={{color:"red"}}>{ell?.category}  </h1>
-                                <h1 style={{marginLeft:"15px",color:"red"}}> :</h1>
-                                <h1>{ell?.title}</h1>
+                                <div style={{marginLeft:"10px",width:"100%"}}>
+                                <h1 style={{color:"red",display:"inline"}}>{ell?.category}  :</h1>
+                                
+                                <h1 style={{display:"inline",marginLeft:"7px"}}>{ell?.title}</h1>
                             </div >
                             
                             <img src={ell['featured-image']} alt="lokmat"width={"100%"} />

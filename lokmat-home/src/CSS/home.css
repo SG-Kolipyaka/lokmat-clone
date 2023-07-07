@@ -25,6 +25,7 @@
 
 .item1{
     border-bottom: 1px solid gray;
+    text-align: left;
 }
 
 .item{
@@ -82,6 +83,7 @@ border-radius: 20px;
     }
     .side1{
         font-size: 10px;
+        text-align: left;
     }
     .home1{
         font-size: 10.5px;
