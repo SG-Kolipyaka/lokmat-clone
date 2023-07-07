@@ -40,6 +40,11 @@ For any further questions or inquiries, please contact sumit Kolipyaka at sumitk
 
 
 ## Snapshots :camera: 
+![Screenshot (617)](https://github.com/SG-Kolipyaka/lokmat-clone/assets/113519884/ef18a035-392c-4b4e-bd7e-2928cc7c3f5c)
+
+![Screenshot (616)](https://github.com/SG-Kolipyaka/lokmat-clone/assets/113519884/da8877a0-cdab-4d38-86cf-3eeca7b77f3a)
+
+
 
 
 <img src="Pictures\Screenshots\Screenshot (617).png"/>
