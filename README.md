@@ -39,10 +39,9 @@ Contact
 For any further questions or inquiries, please contact sumit Kolipyaka at sumitkolipyaka99@gmail.com.
 
 
-## Snapshots :camera:
-* Landing page (Home page) 
+## Snapshots :camera: 
 
 
-<img src="./Frontend/infinity-stone/src/ImageData/home.png"/>
+<img src=""/>
 
 
