@@ -1,0 +1,130 @@
+.wrapper2{
+    display: grid;
+    gap:30px;
+    grid-auto-flow: column;
+    grid-auto-columns: 50%;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    background-color: gray;
+    align-items: center;
+
+
+}
+
+.wrapper2::-webkit-scrollbar{
+    width: 0;
+}
+
+.ite{
+    height: 550px;
+    margin-top: 30px;
+}
+
+.showtitle{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.but1{
+    height: 50px;
+    width: 20%;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: large;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .wrapper2{
+        display: grid;
+        gap:30px;
+        grid-auto-flow: column;
+        grid-auto-columns: 50%;
+        overflow-x: auto;
+        overscroll-behavior-inline: contain;
+        background-color: gray;
+        align-items: center;
+    
+    
+    }
+    .title1{
+        font-size: 18px;
+    }
+    .item{
+        width: 90%;
+    }
+    .ite{
+        height: 300px;
+        margin-top: 30px;
+    }
+    .wrapper2::-webkit-scrollbar{
+        width: 0;
+    }
+    .showtitle{
+        text-align: left;
+        margin-left: 10px;
+        font-size: 20px;
+    }
+    .but1{
+        height: 35px;
+        width: 25%;
+        margin-top: 10px;
+        border-radius: 15px;
+        border: none;
+        background-color: red;
+        color: white;
+        font-size: small;
+    }
+    
+  }
+  
+  @media only screen and (max-width: 992px) {
+    .wrapper2{
+        display: grid;
+        gap:10px;
+        grid-auto-flow: column;
+        grid-auto-columns: 50%;
+        overflow-x: auto;
+        overscroll-behavior-inline: contain;
+        background-color: gray;
+        align-items: center;
+    
+    
+    }
+    .title1{
+        font-size: 18px;
+    }
+    .item{
+        width: 90%;
+    }
+    .ite{
+        height: 320px;
+        margin-top: 30px;
+    }
+    .wrapper2::-webkit-scrollbar{
+        width: 0;
+    }
+    .showtitle{
+        text-align: left;
+        margin-left: 10px;
+        font-size: 20px;
+    }
+    .but1{
+        height: 35px;
+        width: 25%;
+        margin-top: 10px;
+        border-radius: 15px;
+        border: none;
+        background-color: red;
+        color: white;
+        font-size: small;
+    }
+  }

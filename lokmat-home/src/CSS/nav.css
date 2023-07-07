@@ -1,0 +1,14 @@
+.navclass{
+    background-color:rgb(209, 11, 11);
+
+    height: 60px;
+   
+    
+}
+.title{
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-weight: bold; */
+    margin-left: 25px;
+}
