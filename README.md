@@ -42,6 +42,6 @@ For any further questions or inquiries, please contact sumit Kolipyaka at sumitk
 ## Snapshots :camera: 
 
 
-<img src="C:\Users\Sumit\Pictures\Screenshots\Screenshot (617).png"/>
+<img src="Pictures\Screenshots\Screenshot (617).png"/>
 
 
