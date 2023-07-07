@@ -1,6 +1,6 @@
 import { DATA_FAILUER,DATA_SUCCESS,DATA_REQUEST } from "./actionType";
 
-import axios from "axios";  
+import axios from "axios";    
 
 export const getData=(dispatch)=>{
     dispatch({type:DATA_REQUEST})
